@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MatheDev
 - 👀 I’m interested in font end development
 - 🌱 I’m currently learning: HTML, CSS JAVASCRIPT (aiming in the future to become a full stack developer)
-- 💞️ I’m looking to collaborate on:
 - 📫 How to reach me: matheusdeveloper@gmail.com
 
 <!---
